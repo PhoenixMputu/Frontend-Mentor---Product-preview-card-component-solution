@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 <img width="960" alt="Capture d’écran 2022-08-01 071747" src="https://user-images.githubusercontent.com/71931162/182364187-839a9a57-c50d-49bc-82a2-358134744a1e.png">
-<img width="960" alt="Capture d’écran 2022-08-01 071747" src="https://user-images.githubusercontent.com/71931162/182364238-60d0e136-ec87-45ae-91fc-05bb31e37b0d.png">
+<img width="400" alt="Capture d’écran 2022-08-01 071747" src="https://user-images.githubusercontent.com/71931162/182364238-60d0e136-ec87-45ae-91fc-05bb31e37b0d.png">
 
 ### Links
 
